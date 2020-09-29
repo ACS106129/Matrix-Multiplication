@@ -1,6 +1,6 @@
 # Matrix Multiplication
 
-Test for 2500 * 2500 size matrix multiplication, and try to optimize calculate speed by reduce CPU cache miss
+Test for 2500 * 2500 size matrix multiplication, and try to optimize calculating speed by reducing CPU cache miss
 
 ## Result
 
