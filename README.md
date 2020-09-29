@@ -1,10 +1,10 @@
 # Matrix Multiplication
 
-Test for 2500 * 2500 size matrix Multiplication, and try to optimize calculate speed by reduce CPU cache miss
+Test for 2500 * 2500 size matrix multiplication, and try to optimize calculate speed by reduce CPU cache miss
 
 ## Result
 
-Every problem use various way to calculate Multiplication
+Every problem use various way to calculate multiplication
 
 a and b version is different from only the coding optimization
 
