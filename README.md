@@ -26,4 +26,4 @@ Used Time: a.**49.75s** ; b.**49.73s**
 
 ### Problem 5 - Blocks by Submatrix
 
-Used Time: a.**46.29s** ; a.**44.45s**
+Used Time: a.**46.29s** ; b.**44.45s**
